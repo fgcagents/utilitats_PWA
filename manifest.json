@@ -2,10 +2,10 @@
   "name": "FGC utilitats 2026",
   "short_name": "FGC utilitats",
   "description": "Aplicació web per consultar horaris FGC, calcular devolucions i més",
-  "start_url": "/index.html",
-  "scope": "/",
+  "start_url": "/utilitats_2026/index.html",
+  "scope": "/utilitats_2026/",
   "display": "standalone",
-  "orientation": "portrait-or-landscape",
+  "orientation": "any",
   "background_color": "#ffffff",
   "theme_color": "#667eea",
   "icons": [
